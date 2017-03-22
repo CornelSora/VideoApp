@@ -1,0 +1,11 @@
+E:\Programe\SDD\Proiect_v1.1\Proiect_v1.1\bin\Debug\Proiect_v1.1.exe.config
+E:\Programe\SDD\Proiect_v1.1\Proiect_v1.1\bin\Debug\Proiect_v1.1.exe
+E:\Programe\SDD\Proiect_v1.1\Proiect_v1.1\bin\Debug\Proiect_v1.1.pdb
+E:\Programe\SDD\Proiect_v1.1\Proiect_v1.1\obj\Debug\Proiect_v1._1.Form1.resources
+E:\Programe\SDD\Proiect_v1.1\Proiect_v1.1\obj\Debug\Proiect_v1._1.Properties.Resources.resources
+E:\Programe\SDD\Proiect_v1.1\Proiect_v1.1\obj\Debug\Proiect_v1.1.csproj.GenerateResource.Cache
+E:\Programe\SDD\Proiect_v1.1\Proiect_v1.1\obj\Debug\Proiect_v1.1.exe
+E:\Programe\SDD\Proiect_v1.1\Proiect_v1.1\obj\Debug\Proiect_v1.1.pdb
+E:\Programe\SDD\Proiect_v1.1\Proiect_v1.1\obj\Debug\Proiect_v1._1.Form2.resources
+E:\Programe\SDD\Proiect_v1.1\Proiect_v1.1\obj\Debug\Proiect_v1.1.csprojResolveAssemblyReference.cache
+E:\Programe\SDD\Proiect_v1.1\Proiect_v1.1\obj\Debug\Proiect_v1._1.Form3.resources
